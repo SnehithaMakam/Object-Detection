@@ -1,7 +1,0 @@
-opencv
-
-tensorflow==1.14.0
-
-keras==2.2.0
-
-imageai==2.1.5
